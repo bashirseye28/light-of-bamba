@@ -7,7 +7,7 @@ export default function Hero() {
   return (
     <section
       className="relative bg-fixed bg-cover bg-center text-parchment py-32 px-4 sm:px-6 lg:px-8"
-      style={{ backgroundImage: "url('https://res.cloudinary.com/dnmoy5wua/image/upload/v1749087098/12804210_5053309_qdqxpn.jpg')" }}
+      style={{ backgroundImage: "url('https://res.cloudinary.com/dnmoy5wua/image/upload/v1750806295/Wall_pouhya.jpg')" }}
     >
       <div className="absolute inset-0 bg-night-ink/60 backdrop-blur-sm" />
       <div className="relative max-w-4xl mx-auto text-center">
